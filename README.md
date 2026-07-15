@@ -111,4 +111,13 @@ Repository:
 
 Seeking opportunities as an Azure Cloud Security Engineer focused on designing secure, scalable, and enterprise-grade cloud infrastructure.
 
-Thanks for visiting my profile!
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *(Will update soon)*
+- 📧 Email: *(Professional email will be added later)*
+
+---
+
+⭐ Thank you for visiting my profile.
