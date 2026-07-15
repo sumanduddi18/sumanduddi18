@@ -2,6 +2,13 @@
 
 ## Azure Cloud Security Engineer | Azure Administrator | Microsoft Entra ID | Azure IAM
 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure_Security-005BA1?style=for-the-badge)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 I am an IT professional transitioning into Azure Cloud Security with hands-on experience in designing and implementing secure Azure infrastructure.
 
 I have completed multiple production-style Azure projects covering Identity & Access Management (IAM), Networking, Monitoring, Backup, Governance, Security, and Cost Optimization using Microsoft Azure.
