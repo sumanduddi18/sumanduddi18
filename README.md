@@ -88,6 +88,14 @@ Repository:
 
 ---
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanduddi18&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanduddi18&layout=compact)
+
+---
+
 ## Current Learning
 
 - Azure Security
