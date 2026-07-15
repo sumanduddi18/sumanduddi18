@@ -61,6 +61,19 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 - GitHub
 
 ---
+## Azure Expertise
+
+| Domain | Skills |
+|--------|---------|
+| Identity | Microsoft Entra ID, Azure RBAC, Managed Identity |
+| Networking | VNets, Subnets, NSGs, Public IP |
+| Compute | Azure Virtual Machines |
+| Storage | Storage Accounts |
+| Security | Azure Key Vault, Azure Policy |
+| Monitoring | Azure Monitor, Log Analytics |
+| Backup | Recovery Services Vault |
+| Governance | Resource Locks, Tags |
+---
 ## Azure Cloud Projects
 
 | Project | Status |
@@ -71,7 +84,7 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 | Microsoft Entra ID Security Lab | 🚧 Coming Soon |
 | Secure Azure Landing Zone | 🚧 Coming Soon |
 | Azure Policy & Governance | 🚧 Coming Soon |
-
+---
 Production-style Azure Administration and Cloud Security project implementing:
 
 - Azure Resource Manager (ARM)
