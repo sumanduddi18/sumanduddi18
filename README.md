@@ -71,6 +71,7 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 | Microsoft Entra ID Security Lab | 🚧 Coming Soon |
 | Secure Azure Landing Zone | 🚧 Coming Soon |
 | Azure Policy & Governance | 🚧 Coming Soon |
+
 Production-style Azure Administration and Cloud Security project implementing:
 
 - Azure Resource Manager (ARM)
