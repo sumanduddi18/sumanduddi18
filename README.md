@@ -77,10 +77,9 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 ## Azure Cloud Projects
 
 | Project | Status |
-|----------|--------|
+|---------|--------|
 | Azure Banking Infrastructure Deployment | ✅ Completed |
-| Microsoft Sentinel SOC Lab | 🚧 Coming Soon |
-| Microsoft Defender for Cloud | 🚧 Coming Soon |
+| Microsoft Defender for Cloud Security | ✅ Completed |
 | Microsoft Entra ID Security Lab | 🚧 Coming Soon |
 | Secure Azure Landing Zone | 🚧 Coming Soon |
 | Azure Policy & Governance | 🚧 Coming Soon |
@@ -100,6 +99,19 @@ Production-style Azure Administration and Cloud Security project implementing:
 - Azure Policy
 - Resource Locks
 - Cost Optimization
+- - Microsoft Defender for Cloud
+- Cloud Security Posture Management (CSPM)
+- Cloud Workload Protection Platform (CWPP)
+- Secure Score
+- Security Recommendations
+- Attack Path Analysis
+- Regulatory Compliance Dashboard
+- Security Alerts
+- Workflow Automation
+- Continuous Export
+- Azure Policy Integration
+- Azure Monitor
+- Log Analytics Workspace
 
 Repository:
 
