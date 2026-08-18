@@ -9,9 +9,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-I am an IT professional transitioning into Azure Cloud Security with hands-on experience in designing and implementing secure Azure infrastructure.
+I am an IT professional specializing in Azure Administration, Microsoft Entra ID and Cloud Security, with hands-on experience building production-style Azure environments and security labs.
 
-I have completed multiple production-style Azure projects covering Identity & Access Management (IAM), Networking, Monitoring, Backup, Governance, Security, and Cost Optimization using Microsoft Azure.
+My projects cover Identity & Access Management (IAM), Azure Networking, Monitoring, Governance, Microsoft Defender for Cloud, and Cloud Security.
 
 ---
 
@@ -27,11 +27,15 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 ### Identity & Access Management
 
 - Microsoft Entra ID
+- Users & Groups
+- Administrative Units
 - Azure RBAC
-- Resource Locks
-- Security Groups
+- Enterprise Applications
+- App Registrations
+- Service Principals
 - Managed Identity
 - Key Vault
+- Least Privilege Access
 
 ### Azure Infrastructure
 
@@ -40,7 +44,7 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 - Virtual Networks
 - Network Security Groups
 - Public IP
-- Storage Account
+- Storage Accounts
 - Recovery Services Vault
 
 ### Monitoring & Security
@@ -48,8 +52,11 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 - Azure Monitor
 - Log Analytics
 - Activity Logs
+- Sign-in Logs
+- Audit Logs
 - Metric Alerts
 - Azure Backup
+- Microsoft Defender for Cloud
 - Azure Policy
 - Azure Tags
 
@@ -61,30 +68,53 @@ I have completed multiple production-style Azure projects covering Identity & Ac
 - GitHub
 
 ---
+
 ## Azure Expertise
 
 | Domain | Skills |
-|--------|---------|
-| Identity | Microsoft Entra ID, Azure RBAC, Managed Identity |
+|--------|--------|
+| Identity | Microsoft Entra ID, Azure RBAC, Managed Identity, Administrative Units |
+| Application Identity | Enterprise Applications, App Registrations, Service Principals, SSO |
 | Networking | VNets, Subnets, NSGs, Public IP |
 | Compute | Azure Virtual Machines |
 | Storage | Storage Accounts |
-| Security | Azure Key Vault, Azure Policy |
-| Monitoring | Azure Monitor, Log Analytics |
+| Security | Microsoft Defender for Cloud, Azure Key Vault, Azure Policy |
+| Monitoring | Azure Monitor, Log Analytics, Sign-in & Audit Logs |
 | Backup | Recovery Services Vault |
-| Governance | Resource Locks, Tags |
+| Governance | Resource Locks, Tags, Azure Policy |
+
 ---
+
 ## Azure Cloud Projects
 
 | Project | Status |
 |---------|--------|
-| Azure Banking Infrastructure Deployment | ✅ Completed |
-| Microsoft Defender for Cloud Security | ✅ Completed |
-| Microsoft Entra ID Security Lab | 🚧 Coming Soon |
-| Secure Azure Landing Zone | 🚧 Coming Soon |
-| Azure Policy & Governance | 🚧 Coming Soon |
+| [Azure Banking Infrastructure Deployment](https://github.com/sumanduddi18/azure-banking-infrastructure-deployment) | ✅ Completed |
+| [Microsoft Defender for Cloud Security](https://github.com/sumanduddi18/azure-defender-for-cloud-security) | ✅ Completed |
+| [Microsoft Entra ID Security Lab](https://github.com/sumanduddi18/azure-entra-id-security-lab) | ✅ Completed |
+| Secure Azure Landing Zone | 🚧 In Progress |
+| Azure Policy & Governance | 🚧 In Progress |
+
 ---
-Production-style Azure Administration and Cloud Security project implementing:
+
+## 🛡️ Microsoft Entra ID Security Lab
+
+Hands-on Microsoft Entra ID security and IAM implementation covering:
+
+- Identity and Group Management
+- Administrative Units
+- Azure RBAC and Least Privilege
+- Enterprise Applications and App Registrations
+- Service Principals and Managed Identity
+- Sign-in, Audit and Azure Activity Logs
+
+👉 [View Microsoft Entra ID Security Lab](https://github.com/sumanduddi18/azure-entra-id-security-lab)
+
+---
+
+## ☁️ Azure Security Projects
+
+Hands-on Azure projects covering:
 
 - Azure Resource Manager (ARM)
 - Resource Groups
@@ -99,23 +129,16 @@ Production-style Azure Administration and Cloud Security project implementing:
 - Azure Policy
 - Resource Locks
 - Cost Optimization
-- - Microsoft Defender for Cloud
+- Microsoft Defender for Cloud
 - Cloud Security Posture Management (CSPM)
 - Cloud Workload Protection Platform (CWPP)
 - Secure Score
 - Security Recommendations
 - Attack Path Analysis
-- Regulatory Compliance Dashboard
+- Regulatory Compliance
 - Security Alerts
 - Workflow Automation
 - Continuous Export
-- Azure Policy Integration
-- Azure Monitor
-- Log Analytics Workspace
-
-Repository:
-
-👉 https://github.com/sumanduddi18/azure-banking-infrastructure-deployment
 
 ---
 
@@ -129,18 +152,19 @@ Repository:
 
 ## Current Learning
 
-- Azure Security
+- Azure Cloud Security
 - Microsoft Defender for Cloud
 - Microsoft Sentinel
 - Microsoft Entra ID
 - Azure Landing Zones
+- Azure Governance
 - Zero Trust Security
 
 ---
 
 ## Career Goal
 
-Seeking opportunities as an Azure Cloud Security Engineer focused on designing secure, scalable, and enterprise-grade cloud infrastructure.
+Seeking opportunities as an Azure Cloud Security Engineer / Azure Security Engineer, focused on Identity & Access Management, cloud security, secure Azure infrastructure, monitoring, governance, and enterprise security operations.
 
 ---
 
